@@ -8,5 +8,3 @@ def check_pattern(s):
     else:
         print("Fail")
 
-check_pattern(str1)
-check_pattern(str2) 
