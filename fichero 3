@@ -7,5 +7,5 @@
 >>> type(0)
 <class 'int'>
 
->>> type(-46)
+>>46)
 <class 'int'>
