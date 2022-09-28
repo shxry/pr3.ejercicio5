@@ -1,0 +1,12 @@
+import re
+str1 = 'Mark'
+str2 = 'Jack'
+
+def check_pattern(s):
+    if re.match("Ma[a-z]+",s):
+        print("Pass")
+    else:
+        print("Fail")
+
+check_pattern(str1)
+check_pattern(str2) 
