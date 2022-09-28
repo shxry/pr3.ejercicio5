@@ -1,0 +1,15 @@
+from math import exp, log
+a= int(exp(2*log(3)))
+print(a)
+
+from math import sin, pi
+b= round(4*sin(3 * pi /2))
+print(b)
+
+from math import log10, sqrt
+c= abs(log10(.01) * sqrt(25))
+print(c)
+
+from math import log10
+d= round(3.21123 * log10(1000),3)
+print(d)
